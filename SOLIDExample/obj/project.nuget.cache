@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVOyi6yVxHqBOPOaS3pMf1MxYdht2Mx/vTZ8LEr19TJ1+sFE5N7KbZiWWSnPW2ZvsoUkKmNjeb8Z3OAMZDVh+Q==",
+  "success": true,
+  "projectFilePath": "D:\\SOLIDExample\\SOLIDExample\\SOLIDExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngocp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ngocp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ngocp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ngocp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
