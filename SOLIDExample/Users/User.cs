@@ -31,6 +31,7 @@ namespace SOLIDExample.Users
 
     /// <summary>
     /// User Account related (Signup and Login)
+    /// Now in future we can add ForgotPasword in User class.
     /// </summary>
     public class User
     {
@@ -49,6 +50,7 @@ namespace SOLIDExample.Users
 
     /// <summary>
     /// Logging related(LogInformation)
+    /// Now in future we can add LogError,LogWarning in our logging class
     /// </summary>
     public class LogService
     {
